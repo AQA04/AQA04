@@ -48,10 +48,9 @@ Ingeniero Informático especializado en la convergencia entre el desarrollo de i
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AQA04&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Alejandro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AQA04&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AQA04&show_icons=true&theme=radical&hide_border=true&v=1" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AQA04&layout=compact&theme=radical&hide_border=true&v=1" alt="Lenguajes Top" />
 </p>
-
 ---
 
 ### 🚀 Proyectos Destacados
